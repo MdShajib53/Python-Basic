@@ -1,0 +1,3 @@
+Now we change the file txt
+This is the 2nd line of the changing file!!
+Now we append text using append mode
